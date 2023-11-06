@@ -7,3 +7,9 @@ Xia Cheng and Mo Sha “ATRIA: Autonomous Traffic-Aware Scheduling for Industria
 
 # ATRIA
 We implement ATRIA based on Contiki and evaluate its performance o physical testbed that is composed of M3 devices.
+1. atria: implementation
+2. ipv6: system program
+3. rpl: system program
+4. tsch: system program
+5. examples: examples for atria
+6. data
