@@ -6,7 +6,8 @@ We develop ATRIA, a novel Autonomous Traffic-Aware transmission scheduling metho
 Xia Cheng and Mo Sha, “ATRIA: Autonomous Traffic-Aware Scheduling for Industrial Wireless Sensor-Actuator Networks,” in ICNP, 2021.
 
 # ATRIA
-We implement ATRIA based on Contiki and evaluate its performance o physical testbed that is composed of M3 devices.
+We implement ATRIA based on Contiki and evaluate its performance on physical testbed that is composed of M3 devices.
+
 1. atria: implementation
 2. ipv6: system program
 3. rpl: system program
